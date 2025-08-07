@@ -104,8 +104,5 @@ Cyber attack detection
 Practical reporting skills
 
 
-Let’s Connect
-You can find this project on GitHub and more on my  (feel free to add your link).
 
-End of Project – Feel free to fork, clone, or reach out with suggestions.
 
